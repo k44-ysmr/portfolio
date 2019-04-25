@@ -4,12 +4,10 @@ writer yotuba088
 # Description
 Portfolio
 
-# Features
+# Requirement
 - Html
 - Css
 - Javascript
-
-# Requirement
 - Github Pages
 
 # Development Period
