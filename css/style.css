@@ -200,7 +200,7 @@ ul, li {
 #works .card-image {
   width:100%;
   max-width: 100%;
-  height: 300px;
+  height: auto;
   display: block;
   margin: 0 50px 10px 0;
 }
@@ -338,7 +338,7 @@ ul, li {
 }
 
 #contact .contact-list ul {
-  width: 40%;
+  width: 50%;
   margin: 0 auto;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -462,7 +462,8 @@ ul, li {
     width: 100%;
   }
   #works .card {
-    width: 48%;
+    width: 90%;
+    height: auto;
   }
   #works .card-caption-title {
     font-size: 12px;
@@ -491,6 +492,7 @@ ul, li {
   }
   #skill .skill-icon {
     flex-basis: 45px;
+    margin-right: 10px;
   }
   #skill .skill-icon img {
     width: 45px;
@@ -530,8 +532,11 @@ ul, li {
   #contact .contact-list li img {
     width: 30px;
   }
+  #contact .contact-list li i {
+    font-size: 30px;
+  }
   #contact .contact-list-desc {
-    font-size: 11px;
+    font-size: 9px;
   }
   #footer .inner {
     padding: 20px 0;
