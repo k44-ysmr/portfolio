@@ -1,12 +1,10 @@
+# README
 https://yotuba088.github.io/portfolio/
 
-# README
-writer yotuba088
+# Description(まとめ)
+ポートフォリオ用のまとめサイトです。
 
-# Description
-Portfolio
-
-# Requirement
+# Requirement（技術一覧）
 - Html
 - Css
 - Javascript
